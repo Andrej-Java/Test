@@ -1,4 +1,4 @@
 function loggedIn() {
 
-    return true;
+    return false;
 }
