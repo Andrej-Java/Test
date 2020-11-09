@@ -1,0 +1,4 @@
+function loggedIn() {
+
+    return true;
+}
